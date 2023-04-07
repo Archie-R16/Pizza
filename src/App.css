@@ -20,6 +20,8 @@
   margin: 52px 0 32px;
   z-index: 1;
   text-align: center;
+  color: brown;
+
 }
 
 @media (max-width: 800px) {
